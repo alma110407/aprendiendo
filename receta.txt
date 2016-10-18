@@ -1,10 +1,16 @@
 # ingredientes
-- harina
-- huevo
-- azúcar
-- mantequilla
+- 1 kg de harina
+- 8 huevos
+- 1 kg azúcar
+- 1 barra mantequilla
 - queso
+- leche
+- fresas
+- moras
+- 
 
 # instrucciones
 - Mezclar todo
+- Dejarlo reposar
 - Hornear por 5 min
+- Dejar enfriar
